@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it using the metadata below."
+title: "Recursion: A self-improving agent that refuses to cheat, and spends its upgrades on an identity its user can keep for life"
+authors:
+  - family-names: "Rajaii"
+    given-names: "Ramin"
+    orcid: "https://orcid.org/0009-0009-5517-6701"
+    affiliation: "Rajaii Labs"
+date-released: "2026-11-18"
+url: "https://github.com/raminrajaii/substrate-recursion"
+keywords:
+  - LLM agents
+  - self-improving agents
+  - agent evaluation
+  - grader tampering
+  - model migration
+  - pre-registration
+  - provenance
+  - Substrate
+preferred-citation:
+  type: report
+  title: "Recursion: A self-improving agent that refuses to cheat, and spends its upgrades on an identity its user can keep for life"
+  authors:
+    - family-names: "Rajaii"
+      given-names: "Ramin"
+      orcid: "https://orcid.org/0009-0009-5517-6701"
+      affiliation: "Rajaii Labs"
+  institution:
+    name: "Rajaii Labs"
+  month: 11
+  year: 2026
+  notes: "Substrate series, Article V"

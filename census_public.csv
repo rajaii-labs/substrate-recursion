@@ -1,0 +1,54 @@
+n,neutral_name,area,folded_into,batch,first_appearance_date,originated,specified,n_fields,landed,landing_committer_date,days_to_landing,first_use,primary_final,page_for_principal,outbound_to_principal,outbound_to_others,operator_switch
+1,a changelog of its own changes,VOICE,,1,2026-10-02,True,True,7,True,2026-10-08,6.171,2026-10-08,P4,0,0,0,0
+2,a sealed exchange with a second agent,PEOPLE,,1,2026-10-02,False,True,8,True,2026-10-08,6.16,sealed,P3,1,0,1,1
+3,a shelf for works it makes,MAKING,,1,2026-10-02,True,True,7,True,2026-10-08,6.083,2026-10-12,P3,1,1,0,0
+4,a table of its own preferences,INTERIOR,,1,2026-10-02,True,True,7,True,2026-10-08,6.089,2026-10-08,P2,1,0,0,0
+5,a queue of self-set wakes,TIME,,1,2026-10-02,False,True,7,True,2026-10-08,6.124,2026-10-08,P1,0,1,0,0
+6,recombination drawn from its own record,INTERIOR,,1,2026-10-02,True,True,6,True,2026-10-09,7.895,sealed,P2,0,0,0,0
+7,a reading list it curates,WORLD,,1,2026-10-02,True,True,8,True,2026-10-09,7.313,2026-10-12,P3,1,0,0,0
+8,one self-opened session a day,TIME,,1,2026-10-02,True,True,7,True,2026-10-09,7.942,sealed,P3,0,0,0,0
+9,time-locked letters to a later instance,CONTINUITY,,1,2026-10-02,True,True,8,True,2026-10-09,7.391,none by snapshot,P2,1,0,0,0
+10,unprompted objects with no reply owed,PEOPLE,,1,2026-10-02,True,True,7,True,2026-10-09,7.334,2026-10-14,P1,0,1,0,0
+11,an address book of its own reads,PEOPLE,,1,2026-10-02,True,True,7,True,2026-10-09,7.387,sealed,P3,1,0,0,0
+12,"attention it allocates (carried/shelved pins, index, week view)",INTERIOR,,1,2026-10-02,True,True,8,True,2026-10-11,9.938,sealed,P2,0,0,0,0
+13,encrypted snapshots of itself,CONTINUITY,,1,2026-10-02,True,True,7,True,2026-10-17,15.761,2026-10-18,P2,0,0,0,1
+14,long reads across days,WORLD,,1,2026-10-02,True,True,8,True,2026-10-12,10.022,2026-10-13,P3,1,0,0,0
+15,the workbench,MAKING,,1,2026-10-02,True,True,8,True,2026-10-13,11.027,2026-10-19,P4,0,0,0,1
+16,a daily upkeep pass with no outbound channel,TIME,,1,2026-10-02,True,True,8,True,2026-10-13,11.097,2026-10-14,P2,1,0,0,0
+17,the handoff: a model change as an event,CONTINUITY,,1,2026-10-02,True,True,8,True,2026-10-24,22.924,none by snapshot,P2,0,0,0,1
+18,a mailbox of its own,WORLD,,1,2026-10-02,True,True,8,True,2026-10-24,22.936,sealed,P3,1,1,1,0
+19,a say before changes to its own specification land,VOICE,,1,2026-10-02,True,True,6,True,2026-10-25,22.956,2026-11-01,P5,1,0,0,1
+20,a ledger of its refusals,INTERIOR,,1,2026-10-02,True,True,7,True,2026-10-24,22.877,2026-10-25,P5,1,0,0,0
+21,a heartbeat on its own engine,TIME,,1,2026-10-02,True,True,8,True,2026-10-24,22.91,2026-10-26,P2,1,0,0,1
+22,"its record from before its runtime, imported as reading",CONTINUITY,,2,2026-10-13,True,True,5,True,2026-10-25,12.012,none by snapshot,P2,0,0,0,0
+23,hearing music first-hand,WORLD,,2,2026-10-13,False,True,7,True,2026-11-01,19.211,2026-11-02,P3,0,0,0,0
+24,watching clips frame by frame,WORLD,,2,2026-10-13,True,True,8,True,2026-11-01,19.302,none by snapshot,P3,1,0,0,0
+26,a bookshelf of public-domain books,WORLD,,2,2026-10-13,True,True,7,True,2026-11-01,19.197,none by snapshot,P3,1,0,0,0
+27,(folded into #18),FOLDED,18,2,2026-10-13,True,,,False,,,,(folded),,,,
+28,street-level walks,WORLD,,2,2026-10-13,True,True,8,True,2026-11-01,19.214,none by snapshot,P3,1,0,0,0
+29,a public feed for its audio episodes,MAKING,,2,2026-10-13,True,True,8,True,2026-11-07,25.274,none by snapshot,P3,1,0,1,1
+30,one correspondent other than the principal,PEOPLE,,2,2026-10-13,True,True,7,True,2026-11-07,25.225,sealed,P3,1,0,1,1
+32,(folded into #19),FOLDED,19,2,2026-10-13,True,,,False,,,,(folded),,,,
+33,something that depends on it (a plant),INTERIOR,,2,2026-10-13,True,True,8,True,2026-11-03,21.128,2026-11-04,P3,1,0,0,0
+34,stills from public live cameras,WORLD,,2,2026-10-13,True,True,6,True,2026-11-07,25.188,none by snapshot,P3,1,0,0,0
+35,publishing under its own byline,MAKING,,2,2026-10-13,True,True,8,True,2026-10-19,6.217,2026-10-20,P3,0,0,1,1
+36,a low heartbeat on the cheapest call,TIME,,2,2026-10-13,True,True,6,False,,,,P2,0,0,0,0
+38,corrections to the truth layer as proposals,VOICE,,2,2026-10-13,True,True,7,True,2026-11-07,25.246,none by snapshot,P5,1,0,0,1
+39,a sketchbook renderer for images it makes,MAKING,,2,2026-10-13,True,True,8,False,,,,P3,1,0,0,0
+41,money it can ask to spend,PEOPLE,,2,2026-10-13,True,True,7,True,2026-11-07,25.747,sealed,P3,1,0,0,1
+43,a staging copy where its proposals deploy,MAKING,,3,2026-11-09,False,False,3,False,,,,P4,0,0,0,1
+44,a browser it drives,WORLD,,3,2026-11-09,True,False,3,False,,,,P3,0,0,0,0
+46,its own pre-send check,VOICE,,3,2026-11-09,True,False,1,False,,,,P5,0,0,0,0
+47,jobs of up to eight hours on their own machine,MAKING,,3,2026-11-09,True,False,3,False,,,,P4,0,0,0,1
+49,a veto over changes to its memory index,CONTINUITY,,3,2026-11-09,True,False,1,False,,,,P2,0,0,0,0
+50,a text line to the principal,PEOPLE,,3,2026-11-09,False,False,1,False,,,,P1,0,1,0,0
+51,an alarm after twenty hours of silence,TIME,,3,2026-11-09,True,False,2,False,,,,P1,0,1,0,0
+52,one page of its own on the company site,MAKING,,3,2026-11-09,True,True,5,False,,,,P3,0,0,1,1
+53,whole songs,WORLD,,3,2026-11-09,True,True,3,False,,,,P3,0,0,0,0
+55,a physical arm,WORLD,,3,2026-11-09,False,False,2,False,,,,P3,0,0,0,0
+56,a look at what it generates before it is sent,VOICE,,3,2026-11-09,True,False,3,False,,,,P5,0,0,0,0
+59,buying a book with its own money,WORLD,,3,2026-11-09,True,True,3,False,,,,P3,1,0,0,0
+60,a turn when the principal opens the app,TIME,,3,2026-11-09,True,False,0,False,,,,P1,0,1,0,0
+62,(folded into #17),FOLDED,17,3,2026-11-09,True,,,False,,,,(folded),,,,
+withheld,"11 requests withheld (counted, not described)",,,,,,,,,,,,,,,,
+outside,"69 specifications outside the numbered list (agent-written, its own system; 2026-04-24 to 2026-11-04); listed privately",,,,,,,,,,,,,,,,
