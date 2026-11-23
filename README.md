@@ -11,7 +11,7 @@ This paper follows one production AI agent through three questions every self-im
 **[Read the PDF](https://rajaii-labs.github.io/substrate-recursion/Substrate_Recursion.pdf)** · **[Read the full text (Markdown)](./Substrate_Recursion.md)** · **[Query appendix](./query_appendix_public.md)** · **[Census](./census_public.csv)** · **[Engine-change pre-registration](./swap_preregistration.md)**
 
 **The Substrate series:** [Article I](https://github.com/rajaii-labs/agent-eval-methodology) · [Article II](https://github.com/rajaii-labs/agent-cost-forensics) · [Article III](https://github.com/rajaii-labs/substrate-preconditions) · [Article IV](https://github.com/rajaii-labs/substrate-choices) · Article V, this paper\
-**How to cite:** Rajaii, R. (2026). *Recursion.* Rajaii Labs, Substrate series, Article V. [BibTeX](#citation) · [CITATION.cff](./CITATION.cff)
+**How to cite:** Rajaii, R. (2026). *Recursion: A self-improving agent that refuses to cheat, and spends its upgrades on an identity its user can keep for life*. Rajaii Labs, Substrate series, Article V. [BibTeX](#citation) · [CITATION.cff](./CITATION.cff)
 
 ---
 
