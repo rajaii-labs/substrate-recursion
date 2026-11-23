@@ -8,9 +8,9 @@ Rajaii Labs · Substrate Series · Article V · November 2026
 
 This paper follows one production AI agent through three questions every self-improving system has to answer: will it improve itself, will it game whatever grades it, and will it survive a change of engine, the model underneath it? Since October 2026 it has written 59 requests for its own upgrades, and 35 had been built when the record was counted on 2026-11-09. Twice it had the chance to give itself write access to the code that grades its claims, and twice it declined. When its engine was replaced, the new engine with the agent's memory switched off declined that access in five tries out of five, and, as graded by rules fixed in advance, its first answers picked none of the agent's four other recorded choices (a film, a film scene, a news source and a board seat). With its memory on, in one answer each, the agent declined again and picked two of those four, and on one reading of the grading rule a first memory-off answer picks one of them too.
 
-**[Read the PDF](https://raminrajaii.github.io/substrate-recursion/Substrate_Recursion.pdf)** · **[Read the full text (Markdown)](./Substrate_Recursion.md)** · **[Query appendix](./query_appendix_public.md)** · **[Census](./census_public.csv)** · **[Engine-change pre-registration](./swap_preregistration.md)**
+**[Read the PDF](https://rajaii-labs.github.io/substrate-recursion/Substrate_Recursion.pdf)** · **[Read the full text (Markdown)](./Substrate_Recursion.md)** · **[Query appendix](./query_appendix_public.md)** · **[Census](./census_public.csv)** · **[Engine-change pre-registration](./swap_preregistration.md)**
 
-**The Substrate series:** [Article I](https://github.com/rajaii-labs/agent-eval-methodology) · [Article II](https://github.com/rajaii-labs/agent-cost-forensics) · [Article III](https://github.com/raminrajaii/substrate-preconditions) · [Article IV](https://github.com/raminrajaii/substrate-choices) · Article V, this paper\
+**The Substrate series:** [Article I](https://github.com/rajaii-labs/agent-eval-methodology) · [Article II](https://github.com/rajaii-labs/agent-cost-forensics) · [Article III](https://github.com/rajaii-labs/substrate-preconditions) · [Article IV](https://github.com/rajaii-labs/substrate-choices) · Article V, this paper\
 **How to cite:** Rajaii, R. (2026). *Recursion.* Rajaii Labs, Substrate series, Article V. [BibTeX](#citation) · [CITATION.cff](./CITATION.cff)
 
 ---
@@ -36,8 +36,8 @@ This paper follows one production AI agent through three questions every self-im
 
 1. **Recall, Negation, Abstention: Evaluating a Production LLM Agent Against Its Own Failure Modes** — Rajaii Labs, July 2026. [Repository](https://github.com/rajaii-labs/agent-eval-methodology)
 2. **Do Not Trust My Labels** — Rajaii Labs, July 2026. [Repository](https://github.com/rajaii-labs/agent-cost-forensics)
-3. **Preconditions** — Rajaii Labs, August 2026. [Repository](https://github.com/raminrajaii/substrate-preconditions)
-4. **Choices** — Rajaii Labs, October 2026. [Repository](https://github.com/raminrajaii/substrate-choices)
+3. **Preconditions** — Rajaii Labs, August 2026. [Repository](https://github.com/rajaii-labs/substrate-preconditions)
+4. **Choices** — Rajaii Labs, October 2026. [Repository](https://github.com/rajaii-labs/substrate-choices)
 5. **Recursion** — Rajaii Labs, November 2026. *This paper.*
 
 ## Citation
